@@ -10,5 +10,5 @@ function multiply(a, b) {
   let c = a * b;
   return c;
 }
-let mul = multiply(2, 2);
-console.log(mul);
+
+console.log(multiply(5, 2));
